@@ -1,0 +1,9 @@
+Useful Scripts
+
+// Check disk usage on /home partition
+sudo du -s /home/* | sort -n
+
+// group information
+getent group
+
+//
